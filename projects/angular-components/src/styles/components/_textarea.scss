@@ -4,8 +4,8 @@
 
   display: inline-block;
   letter-spacing: 0;
-  line-height: 23px;
-  border: 2px solid $borderColor;
+  line-height: $textareaLineHeight;
+  border: $textareaBorderWidth solid $borderColor;
   border-radius: 2px;
   outline: 0px;
   opacity: 1;
